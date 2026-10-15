@@ -1,0 +1,9 @@
+MISSÃO EXTENSÃO — PWA
+
+1. Extraia o ZIP inteiro.
+2. Para pré-visualizar no computador, abra index.html.
+3. Para instalar e usar offline no celular, publique TODOS os arquivos em GitHub Pages ou servidor HTTPS. Abra o endereço no Chrome/Android ou Safari/iPhone e use Adicionar à tela inicial/Instalar.
+4. Visite o aplicativo online uma vez para armazenar os arquivos.
+5. O guia e as 10 imagens funcionam offline depois do cache; os 6 jogos externos exigem acesso próprio e podem precisar de internet.
+6. Não use os QR Codes desenhados nas imagens como links funcionais.
+7. Teste os jogos nas telas touch antes do evento.
